@@ -22,6 +22,27 @@
 
 ---
 
+### 📜 Certifications & Experience Letters
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-Python%20for%20Web%20Development-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Foundation%20Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Professional%20Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Designing-Certified-FF6C37?style=for-the-badge&logo=htmx&logoColor=white" />
+</p>
+
+- 🏅 [IBM – Python for Web Development](https://github.com/Aryanp7272/All-certification-s/blob/main/IBM_Python_for_Web_development.pdf)
+- 🏅 [SQL Foundation Certificate](https://github.com/Aryanp7272/All-certification-s/blob/main/SQL-foundation_certificate.pdf)
+- 🏅 [SQL Professional Certificate](https://github.com/Aryanp7272/All-certification-s/blob/main/SQL-professional%20certificate.pdf)
+- 🏅 [Web Designing Certificate](https://github.com/Aryanp7272/All-certification-s/blob/main/WEB-desinging_certificate.pdf)
+- 🏅 [Advanced Web Designing](https://github.com/Aryanp7272/All-certification-s/blob/main/Advanced_Web_Designing_.jpg)
+- 📄 [Internship Experience Letter](https://github.com/Aryanp7272/All-certification-s/blob/main/internship%20later.pdf)
+- 📄 [SG Internship Letter](https://github.com/Aryanp7272/All-certification-s/blob/main/SG%20internship%20letter%20.pdf)
+
+📁 [View all certifications →](https://github.com/Aryanp7272/All-certification-s)
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -48,15 +69,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanp7272&theme=react-dark&hide_border=true&area=true&radius=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanp7272&theme=react-dark&hide_border=true&area=true&radius=15&bg_color=0D1117" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanp7272&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://img.shields.io/github/stars/Aryanp7272?style=for-the-badge&color=00c896&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/Aryanp7272?style=for-the-badge&color=00c896&label=Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00c896&label=Repos&query=public_repos&url=https://api.github.com/users/Aryanp7272" />
 </p>
 
 ---
