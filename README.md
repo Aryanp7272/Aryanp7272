@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 💼 Software Engineer at **E42**
+- 💼 **Software Engineer**
 - 🐍 Backend development with **Django & Python REST APIs**
 - 🗄️ Data layer: **MongoDB & SQL**
 - 🔍 Building & optimizing **OCR pipelines**
